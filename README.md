@@ -1,3 +1,7 @@
+<img src="ChwaPam22-Figma2025-12-0609-43-31-ezgif.com-video-to-gif-converter.gif" width=200><br>
+
+
+
 # LES-MONITEURS
 # Groups Members:
 # Tamarra RICHEMOND
@@ -26,10 +30,10 @@ Through the app, universities can create accounts and directly upload or manage 
 
 # User Stories:
 
-Must Have
-•	Students should be able to create an account using basic info (name, email, password) to personalize their experience.
-•	Universities should be able to create an official account to manage and update their program information.
-•	Universities should be able to add a new academic program, including:
+# Must Have
+- [x] •	Students should be able to create an account using basic info (name, email, password) to personalize their experience.
+- [x] •	Universities should be able to create an official account to manage and update their program information.
+- [x] •	Universities should be able to add a new academic program, including:
 	Program name
 	Description
 	Required qualifications (e.g., diploma, skills)
@@ -42,33 +46,32 @@ Must Have
 	Students should be able to select a program to see its full details on a dedicated page.
 	Students should be able to save favorite programs to review later.
 	Universities should be able to edit or delete their own program listings at any time.
-Maybe
-•	Students should be able to compare two or more programs side-by-side (requirements, cost, duration).
-•	Students should be able to rate or leave feedback on programs after attending an orientation session or campus visit.
-•	Universities can upload short videos (campus life, lab tours, testimonials).
-•	Students can complete a small orientation quiz to discover suggested career paths based on their interests.
-•	Universities can highlight special announcements, such as:
-•	Scholarship deadlines
-•	Open days
-•	New program launch
-•	Students can chat with university representatives through an integrated messaging system.
+# Maybe
+- [x] •	Students should be able to compare two or more programs side-by-side (requirements, cost, duration).
+- [x] •	Students should be able to rate or leave feedback on programs after attending an orientation session or campus visit.
+- [x] •	Universities can upload short videos (campus life, lab tours, testimonials).
+- [x] •	Students can complete a small orientation quiz to discover suggested career paths based on their interests.
+- [x] •	Universities can highlight special announcements, such as:
+- [x] •	Scholarship deadlines
+- [x] •	Open days
+- [x] •	New program launch
+- [x] •	Students can chat with university representatives through an integrated messaging system.
 
 
 
 
 
-Would Be Nice to Have
-•	Universities can view simple analytics, such as how many students viewed or saved their programs.
-•	A personalized suggestion engine that recommends programs based on a student’s saved items and quiz results.
-•	Dark mode for better accessibility and pleasant nighttime browsing.
+# Would Be Nice to Have
+- [x] •	Universities can view simple analytics, such as how many students viewed or saved their programs.
+- [x] •	A personalized suggestion engine that recommends programs based on a student’s saved items and quiz results.
+- [x] •	Dark mode for better accessibility and pleasant nighttime browsing.
 
-Design:
+##Design:
 
 
 <img src="20251206_105738.jpg" width=200><br>
 <img src="20251206_105802.jpg" width=200><br>
 
-<img src="ChwaPam22-Figma2025-12-0609-43-31-ezgif.com-video-to-gif-converter.gif" width=200><br>
 
 
 

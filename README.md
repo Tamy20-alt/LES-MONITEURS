@@ -68,7 +68,7 @@ Design:
 <img src="20251206_105738.jpg" width=200><br>
 <img src="20251206_105802.jpg" width=200><br>
 
-<img src="20251206_105802.jpg" width=200><br>
+<img src="ChwaPam22-Figma2025-12-0609-43-31-ezgif.com-video-to-gif-converter.gif" width=200><br>
 
 
 

@@ -1,30 +1,30 @@
 # LES-MONITEURS
-Groups Members:
-Tamarra RICHEMOND
-Jessica RINVIL
-Jack ETHYL FIls
-Mahatma C.Sycia Amelida Dormeus
-Claudy OFILIEN
-Jean Benshelove
+# Groups Members:
+# Tamarra RICHEMOND
+# Jessica RINVIL
+# Jack ETHYL FIls
+# Mahatma C.Sycia Amelida Dormeus
+# Claudy OFILIEN
+# Jean Benshelove
 
-App ideas:
-•	An app that helps students explore academic programs offered by different universities, allowing them to quickly understand requirements, costs, and career opportunities.
-•	An app where universities can manage and update their program information, making it easier to reach potential students.
-•	An app that helps high-school graduates take a career-interest quiz, then gives them personalized recommendations based on their strengths and goals.
-•	An app that centralizes all universities in Haiti, allowing students to compare tuition, admission criteria, and program duration in one place.
+# App ideas:
+- [x] •	An app that helps students explore academic programs offered by different universities, allowing them to quickly understand requirements, costs, and career opportunities.
+- [x] •	An app where universities can manage and update their program information, making it easier to reach potential students.
+- [x] •	An app that helps high-school graduates take a career-interest quiz, then gives them personalized recommendations based on their strengths and goals.
+- [x] •	An app that centralizes all universities in Haiti, allowing students to compare tuition, admission criteria, and program duration in one place.
 
-Final App Idea: 
-Choosing a career path right after high school can feel overwhelming, especially when students have limited access to clear, organized information about universities and the programs they offer. ChwaPam is a mobile application designed to simplify that process by creating a dynamic bridge between students and universities.
+# Final App Idea: 
+- [x] Choosing a career path right after high school can feel overwhelming, especially when students have limited access to clear, organized information about universities and the programs they offer. ChwaPam is a mobile application designed to simplify that process by creating a dynamic bridge between students and universities.
 Through the app, universities can create accounts and directly upload or manage detailed information about their institution, including programs offered, admission requirements, campus descriptions, tuition details, and opportunities such as scholarships. Students, in turn, can explore these programs, compare options, save favorites, and find guidance toward a career path that fits their goals and interests.
 
-ChwaPam empowers both sides:
-•	Universities gain a centralized space to promote their programs and reach students more easily.
-•	Students get an intuitive tool to discover their future with clarity and confidence.
+# ChwaPam empowers both sides:
+- [x] •	Universities gain a centralized space to promote their programs and reach students more easily.
+- [x] •	Students get an intuitive tool to discover their future with clarity and confidence.
 
 
 
 
-User Stories:
+# User Stories:
 
 Must Have
 •	Students should be able to create an account using basic info (name, email, password) to personalize their experience.
@@ -63,6 +63,8 @@ Would Be Nice to Have
 •	Dark mode for better accessibility and pleasant nighttime browsing.
 
 Design:
+<img src="YOUR_GIF_URL_HERE" width=200><br>
+
 
 
 
